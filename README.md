@@ -1,4 +1,6 @@
-# cpp_exp
+´´´
+
+´´´
 
 Experimentation with cpp
 
@@ -7,7 +9,6 @@ Experimentation with cpp
     cd build
     cmake ..
     make -j4
-    make test
 
 # Author
 
